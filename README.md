@@ -11,7 +11,7 @@ DOCUMENTAÇÃO LATEX/
 │   └── README.md
 ├── Estruturação de documentos/
 │   └── README.md
-├── Introdução/
+├── Introdução ao latex/
 │   └── README.md
 ├── LICENSE
 └── README.md

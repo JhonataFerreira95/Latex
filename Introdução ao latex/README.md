@@ -93,5 +93,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
         - Contras:
 
+            - Basicamente, a desvantagem de `LaTeX` é a interface. Se você não se dá bem com computadores e sabe apenas o básico, dificilmente irá gostar de usar `LaTeX`. É preciso paciência e dedicação no início; coisas que antes eram simples são, de repente, complicadas; você vê erros e não sabe como corrigí-los, etc. Isso é comum a qualquer linguagem de programação, e simplesmente faz parte da coisa toda.
+
+            - Por outro lado, se você gosta de desenvolver diferentes habilidades e se considera um usuário avançado, `LaTeX` será uma ótima opção. Se você está cogitando utilizá-lo é provável que você faça Mestrado ou Doutorado. Nesse caso, você certamente tem capacidade para aprender uma linguagem como TeX. Ou seja: as pessoas que normalmente procurarão `LaTeX` têm o nível de instrução necessário para aprender—afinal, pessoas que mal sabem usar um computador não devem estar pensando em publicar artigos científicos.
+
+            ---
+
             
+
+
+
+    
 

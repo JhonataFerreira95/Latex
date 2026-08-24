@@ -23,7 +23,7 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 - `Word` e `LaTex`: Prós e contra;
 
-    - `Word`:~
+    - `Word`:
 
         - Prós:
 
@@ -42,4 +42,28 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
             ---
 
         - Contra: 
+
+            - Espaçamentos:
+
+                - O `Word` simplesmente não lida bem com espaçamentos entre caracteres.
+
+            - Velocidade:
+
+                - Para documentos mais longos, o `Word` simplesmente atrasa a sua vida. Uma tese cheia de figuras e gráficos, por exemplo, causa lags frequentes.
+
+            - Referências:
+
+                -  É preciso ter um aplicativo separado para lidar com bibliografias. A interação com o `Word` não é tão ruim, mas programas como EndNote estão realmente longe do ideal (embora haja opções gratuitas).
+
+            - Qualidade de layout:
+
+                - Sem dúvida docs são esteticamente inferiores a texs. Documentos em `Word` simplesmente não têm o aspecto profissional que você encontra em publicações standard. Talvez o layout seja uma das grandes vantagens do `LaTeX`.
+
+            - Ferramentas científicas:
+
+                - Se você precisa de fórmulas, equações, diagramas, estruturas não lineares… o Word se torna inutilizável. Mesmo utilizando assistente de fórmula, o resultado fica bem longe do que você encontra em livros-texto.
+
+            ---
+
+    - `Latex`
 

@@ -61,9 +61,37 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
             - Ferramentas científicas:
 
-                - Se você precisa de fórmulas, equações, diagramas, estruturas não lineares… o Word se torna inutilizável. Mesmo utilizando assistente de fórmula, o resultado fica bem longe do que você encontra em livros-texto.
+                - Se você precisa de fórmulas, equações, diagramas, estruturas não lineares… o `Word` se torna inutilizável. Mesmo utilizando assistente de fórmula, o resultado fica bem longe do que você encontra em livros-texto.
 
             ---
 
-    - `Latex`
+    - `Latex`:
+
+        - Prós:
+
+            - Velocidade e automatização:
+
+                - Um arquivo tex é rápido, já que trata de texto apenas. O output, em pdf, é obviamente mais rápido do que o doc, por razões óbvias. Links entre seções (também possíveis em `Word`) são facilmente implementados. O mesmo pode ser dito sobre figuras e gráficos, por exemplo.
+
+            - Layout e ferramentas científicas:
+
+                - Se você é perfeccionista e procura o layout mais profissional possível, use `LaTeX`. A interação entre diferentes tipos de objeto e texto flui de forma excelente, algo raro em `Word`.
+
+            - Compatibilidade: 
+
+                - Diferentes versões de `Word` podem causar mudanças bruscas de formatação em um doc. `TeX`, por outro lado, não sofre com esse tipo de problema. OK, pacotes são atualizados, e alguns detalhes podem mudar, mas o nível de compatibilidade é suficientemente baixo para que você possa simplesmente presumir que seja zero—principalmente quando comparamos com docs. Um tex pode ser aberto em virtualmente qualquer lugar. Você pode editá-lo mesmo sem ter LaTeX instalado, porque não é preciso compilar um tex para editá-lo: o resultado final (pdf) é um arquivo independente do arquivo com o conteúdo (tex).
+
+            - Pacotes:
+
+                - `LaTeX` é gratuito (open source). Há milhares de pacotes disponíveis para as mais variadas tarefas. Se você quer criar X, é bem provável que há um pacote para isso. Diferentes desenvolvedores pode adicionar funcionalidades a partir de pacotes—essa é a grande vantagem de sistemas open source (há outras, é claro). O número de desenvolvedores/programadores trabalhando no `Word` é limitado, o que significa que bugs demoram mais a serem corrigidos. Em sistemas abertos, como a Wikipedia, há um número absurdo de pessoas trabalhando constantemente para que a coisa toda funcione. Não há como competir: basta ver quantas pessoas ainda consultam a Britannica…
+
+            - Aprendizado:
+
+                - Usar `LaTeX` é aprender, constantemente, coisas diferentes. Se você nunca programou, utilizar `LaTeX` será uma introdução básica: você possivelmente irá partir para outras linguagens depois. Isso porque o feedback é bastante instantâneo: você aprende algo, compila, e percebe que conseguiu criar uma estrutura bastante complexa. Isso é estimulante, como qualquer atividade em que você aprende constantemente. Além disso, para pessoas que não são da computação/programação, como eu, usar `LaTeX` é uma ótima oportunidade de “pensar” em códigos. Você passar a entender uma nova sintaxe, e aplicar seus conhecimentos intuitivamente para criar aquilo que o `Word` não consegue. Isso é excelente não apenas para artigos/teses/dissertações, mas para handouts e apresentações de slides: muito do que usamos em Linguística exige uma certa complexidade gráfica, e transmitir isso nem sempre é intuitivo—principalmente em editores de texto como o `Word`.
+
+            ---
+
+        - Contras:
+
+            
 

@@ -145,6 +145,17 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- O comando em `LateX` começa com `\` e após isso a palavra reservada e caso necessário a opção e após o argumento:
+
+    ```tex
+
+        \documentclass[lipt]{article}
+
+    ```
+
+    - Observa-se acima um exeplo prático do que comentei.
+
+---
 
     
 

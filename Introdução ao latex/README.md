@@ -3,7 +3,7 @@
 ## Índice
 
 1. [O que é o `LateX`?](#introdução-ao-latex)
-2. [Estrutura básica de documentos]()
+2. [Estrutura básica de documentos](#entendendo-a-estrutura-de-documentos)
 3. [Formatação de texto e equações]()
 4. [Tabelas, figuras e referências]()
 
@@ -103,7 +103,9 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
             - Para documentos pequenos e simples, `Word` sempre será uma boa opção. Para documentos complexos (acadêmicos), contudo, `LaTeX` será infinitamente superior. Se você  aplica rigor à forma do que produz (academicamente), utilizar `Word` realmente não é o caminho. A learning curve do `LaTeX` é um certo obstáculo, mas isso não deveria ser novidade se você está no mundo acadêmico—veja isso como uma oportunidade de desenvolver um skill técnico extremamente útil na sua educação/profissão.
 
+---
 
+## Entendendo a estrutura de documentos
 
     
 

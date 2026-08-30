@@ -119,6 +119,12 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- `Preâmbulo`:
+
+    - O `Preâmbulo` é o inicio do documento entre o `documentclass` até o inicio do documento em `\begin{document}`.
+
+---
+
 - Comandos que denotam ambiente no `LateX`, onde se inicia um bloco de código e finaliza, estilo o `ruby`.
 
     ```tex
@@ -139,7 +145,6 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
-- `Preâmbulo`:
 
     
 

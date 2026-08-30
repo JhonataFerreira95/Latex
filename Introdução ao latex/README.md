@@ -119,5 +119,27 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Comandos que denotam ambiente no `LateX`, onde se inicia um bloco de código e finaliza, estilo o `ruby`.
+
+    ```tex
+
+        \begin{document}
+
+        \maketitle
+
+        \section{Introduction}
+
+
+
+        \end{document}
+
+    ```
+
+    - Observa-se que ele puxa muito da programação em `ruby`, podendo ter coisas aninhadas como um condicional em um escopo
+
+---
+
+- `Preâmbulo`:
+
     
 

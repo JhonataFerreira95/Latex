@@ -159,11 +159,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```tex
 
-        /maketitle
+        \maketitle
 
     ```
 
     - Exbie no centro como título os dados acima dele, serve para definir o escopo do título.
+
+    ---
+
+    - Quando deixo uma em linha em  branco entre texto e outro em `LateX`, tenho um paragráfo. Se eu colocar `\\` no final da frase, tenho uma quebra de linha, mas sem paragráfo.
 
 ---
 

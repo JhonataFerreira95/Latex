@@ -155,6 +155,16 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     - Observa-se acima um exeplo prático do que comentei.
 
+    ---
+
+    ```tex
+
+        /maketitle
+
+    ```
+
+    - Exbie no centro como título os dados acima dele, serve para definir o escopo do título.
+
 ---
 
     

@@ -173,5 +173,23 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ## Criando um documento simples
 
+> Nessa parte irei abordar as seções, que são responsáveis por dividir os artigos.
+
+---
+
+- Dicas para numeração:
+
+    ```tex
+
+        \section*{alpha}
+
+        \section{beta}
+
+    ```
+
+    - Observa-se que aqui utilizei dois comandos com uma pequena diferença. O `alpha` com o `*`, sem o `*` fica com a numeração.
+
+---
+
     
 

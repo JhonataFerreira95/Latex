@@ -260,3 +260,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - Esse comando gera uma sumário automático, sem necessidade de organizar o mesmo, basta por o comando onde quer que o sumário apareça, e pronto.
 
 ---
+
+- Comando para mudar a lingaugem do documento:
+
+    ```tex
+
+        \usepackage[brazil]{babel}
+
+    ```
+
+    - O comando acima converte todo o documento para português brasileiro, pode utilizar esse comando para várias outras linguagens.
+
+---

@@ -224,3 +224,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - A `subsubseções` funcionam da mesma forma das `subseções`, acabam quando outras começãm.
 
 ---
+
+- Comando para separar a página:
+
+    ```tex
+
+        \newpage
+
+    ```
+
+    - Serve para quebrar a página automáticamente.
+
+---

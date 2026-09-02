@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  30 AUG 2026 23:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  2 SEP 2026 01:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -100,17 +100,17 @@ L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1299 strings out of 467870
- 21726 string characters out of 5418839
+ 1302 strings out of 467870
+ 21762 string characters out of 5418839
  435733 words of memory out of 5000000
- 30215 multiletter control sequences out of 15000+600000
- 631361 words of font info for 52 fonts, out of 8000000 for 9000
+ 30217 multiletter control sequences out of 15000+600000
+ 631976 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,255b,201s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on new_document.pdf (1 page, 42397 bytes).
+<C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on new_document.pdf (1 page, 53940 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -248,3 +248,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - Para exibir algum comentário no `LateX` usamos o `\&`
 
 ---
+
+- Sumário:
+
+    ```tex
+
+        \tableofcontents
+
+    ```
+
+    - Esse comando gera uma sumário automático, sem necessidade de organizar o mesmo, basta por o comando onde quer que o sumário apareça, e pronto.
+
+---

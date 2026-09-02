@@ -236,3 +236,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - Serve para quebrar a página automáticamente.
 
 ---
+
+- Exibindo comentários no `LateX`:
+
+    ```tex
+
+        \& comentário
+
+    ```
+
+    - Para exibir algum comentário no `LateX` usamos o `\&`
+
+---

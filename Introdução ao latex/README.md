@@ -191,5 +191,21 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Subseções:
+
+    ```tex
+
+        \section{alpha}
+
+        \subsection{gama}
+
+        \section{beta}
+
+    ```
+
+    - Aqui criamos uma subseção de `alpha` e essa subseção só acaba quando começa a seção `beta`
+
+---
+
     
 

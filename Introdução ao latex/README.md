@@ -284,3 +284,11 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - Observa-se que usamos o comando `\usepackge` para importa qualquer pacote em nosso documento `LateX`.
 
 ---
+
+- Comando para deixar a data de hoje:
+
+    ```tex
+
+        \date{\today}
+
+        \date{data_desejada}

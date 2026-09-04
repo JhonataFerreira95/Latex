@@ -272,3 +272,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - O comando acima converte todo o documento para português brasileiro, pode utilizar esse comando para várias outras linguagens.
 
 ---
+
+- Importando pacotes para o `Latex`:
+
+    ```tex
+
+        \usepackge
+
+    ```
+
+    - Observa-se que usamos o comando `\usepackge` para importa qualquer pacote em nosso documento `LateX`.
+
+---

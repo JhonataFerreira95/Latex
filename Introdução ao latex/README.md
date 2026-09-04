@@ -4,7 +4,7 @@
 
 1. [O que é o `LateX`?](#introdução-ao-latex)
 2. [Estrutura básica de documentos](#entendendo-a-estrutura-de-documentos)
-3. [Formatação de texto e equações]()
+3. [Formatação de texto e equações](#formatando-texto)
 4. [Tabelas, figuras e referências]()
 
 ---
@@ -296,3 +296,5 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     ```
 
 ---
+
+## Formatando texto

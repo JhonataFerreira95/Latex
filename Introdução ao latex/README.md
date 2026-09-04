@@ -292,3 +292,7 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
         \date{\today}
 
         \date{data_desejada}
+
+    ```
+
+---

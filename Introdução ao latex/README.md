@@ -301,3 +301,6 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 > Aqui irei aborda a como formatar um text em `LateX` quanto a criar equações no mesmo, de forma simples e rápida.
 
+---
+
+

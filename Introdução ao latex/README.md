@@ -338,3 +338,21 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - Aqui tem diversos tamanhos de textos em vários exemplos.
 
 ---
+
+- Formatação de texto em `LateX`:
+
+    ```tex
+
+        \textbf{texto em negrito.}\\
+        \textit{texto em itálico.}\\
+        \underline{texto sublinhado.}\\
+        \texttt{texto fonte monoespaçada}\\
+        \textsc{texto em caixa alta.}\\
+        \textsf{texto em fonto sem seriga.}\\
+        \textsl{texto em fonte inclinada}\\
+
+    ```
+
+    - Observa-se que temos vários tipos de formatar um texto em `LateX`, desda fonte com `negrito` até fonte sem `serifa`.
+
+---

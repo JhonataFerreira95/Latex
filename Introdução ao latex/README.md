@@ -353,6 +353,6 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```
 
-    - Observa-se que temos vários tipos de formatar um texto em `LateX`, desda fonte com `negrito` até fonte sem `serifa`.
+    - Observa-se que temos vários tipos de formatar um texto em `LateX`, desda fonte com `negrito` até fonte sem `serifa`, só ressaltando que podemos aidiconar tipos de formação com tamanhos como `{hug\textbf{\textit{veja como fica.}}}`
 
 ---

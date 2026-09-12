@@ -303,4 +303,17 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Escrevendo uma `abstract` em `LateX`:
 
+    ```tex
+
+        \begin{abstract}
+
+
+        \end{abstract}
+
+    ```
+
+    - Dentro desses comandos acima fica nosso `abstract` em `LateX`.
+
+---

@@ -361,4 +361,8 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Escrevando equação em linha no `LateX`:
 
+    ```tex
+
+        \section

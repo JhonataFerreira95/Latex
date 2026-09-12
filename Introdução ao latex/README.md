@@ -317,3 +317,24 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - Dentro desses comandos acima fica nosso `abstract` em `LateX`.
 
 ---
+
+- Tamanhos de textos em `LateX`:
+
+    ```tex
+
+        {\tiny texto em tamanho tiny.}\\
+        {\scriptsize texto tamanho scriptsize.}\\
+        {\footnotesize texto em tamanho footnotesize.}\\
+        {\small texto em tamanho small.}\\
+        {\nromalsize texto em tamanho normalsize.}\\
+        {\large texto em tamanho large.}\\
+        {\Large texto em tamanho Large.}\\
+        {\LARGE texto em tamanho LARGE.}\\
+        {\huge texto em tamanho huge.}\\
+        {\Huge texto em tamanho Huge.}\\
+
+    ```
+
+    - Aqui tem diversos tamanhos de textos em vários exemplos.
+
+---

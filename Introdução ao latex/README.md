@@ -381,10 +381,18 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
         \section{equação em linha}
 
-        A minha equação predileta é x + y = z
+        A minha equação predileta é $$x + y = z$
 
     ```
 
-    - Observa-se que todo texto baixo se torna uma equação, ou quase todo. O padrão de todas as equações é o ítalico.
+    - Observa-se que todo texto baixo se torna uma equação, ou quase todo. O padrão de todas as equações é o ítalico. Observe que usei dois símbolos de `$`, um no início e outro no final, isso detona o inicio de final do ambiente matemático.
 
 ---
+
+- Segunda forma de escrever equações:
+
+    ```tex
+
+        \section{Destacada}
+
+

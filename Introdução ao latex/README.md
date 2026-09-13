@@ -395,4 +395,12 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
         \section{Destacada}
 
+            A minha equação predileta é $$x + y = z$$
+
+    ```
+
+    - Observe que aqui é a mesma equação que passei anteriormente, mas a diferença que usei `$` dois símbolos para ficar centralizador e denotar o ínicio e fim da equação. 
+
+---
+
 

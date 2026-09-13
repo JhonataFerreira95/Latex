@@ -417,6 +417,14 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - Aqui utilizando o `enumerada` para deixa a nossa equação númerada.
 
 ---
+
+- Símbolos matemáticos:
+
+    ```tex
+
+        \section{símbolos}
+
+        Letras grega podem ser escritas como $\apha$, $\beta$, $\gamma
         
 
 

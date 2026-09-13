@@ -475,4 +475,28 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     - Aqui temos exemplos de onde o `LateX` se destaca, com foco no comando `\frac` para criar uma fração. Os demais comando irei explicar nos módulos mais a frente.
 
+    ---
+
+    - **\cdot**:
+
+        - Utilizando esse comando em `LateX` para representar a multiplicação
+
+    ---
+
+    - **\frac{numerador}{denominador}**:
+
+        - Como mencionei anteriormente, usamos esse comando para definir uma fração.
+
+    ---
+
+    - **\sum**:
+
+        - Auto-explicativo, mas utilizamos para somar o resultado de nossas equações.
+    
+    ---
+
+    - **\text**
+
+        - Para utilizamos texto dentro do ambiente matemático usamos o `$\text{texto_sugerido} + {texto_sugerido}$`
+
 ---

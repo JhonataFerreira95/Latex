@@ -379,4 +379,12 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```tex
 
-        \section
+        \section{equação em linha}
+
+        A minha equação predileta é x + y = z
+
+    ```
+
+    - Observa-se que todo texto baixo se torna uma equação, ou quase todo. O padrão de todas as equações é o ítalico.
+
+---

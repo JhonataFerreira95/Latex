@@ -424,7 +424,14 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
         \section{símbolos}
 
-        Letras grega podem ser escritas como $\apha$, $\beta$, $\gamma
+        Letras grega podem ser escritas como $\alpha$, $\beta$, $\gamma$,$\delta$, $\epsilon$, $\zeta$, $\theta$, $\kappa$, $\lambda$, $\mu$, $\pi$ e $\omega$.\\
+        Pode ser escritos em letras maisculas como $\Gamma$, $\Delta$, $\Theta$, $\Lambda$, $\Xi$, $\Pi$ e $\Omega$\\
+
+    ```
+
+    - Aqui escrevi várias letras gregas utilizadas para equações, tanto de forma normal quanto de maisculas.
+
+---
         
 
 

@@ -452,3 +452,27 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Exibindo expressões metemática que o `LateX` consegue representar bem:
+
+    ```tex
+
+        /section{Operações}
+        
+        O Teorema fundamental do Cálculo é dado por:
+        \begin{equation}
+        \int_a^b f(x)\ \mathrm{d}x = F(b) - F(a)
+        \end{equation}
+        A definição de derivada é dada por:
+        \begin{equation}
+        \frac{\mathrm{d}f}{\mathrm{d}x} = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}
+        \end{equation}
+        O somatório de $l$ até $n$ é dado por:
+        \begin{equation}
+        \sum_{i = l}^n i = \frac{n \cdot (n + 1)}{2}
+        \end{equation}
+
+    ```
+
+    - Aqui temos exemplos de onde o `LateX` se destaca, com foco no comando `\frac` para criar uma fração. Os demais comando irei explicar nos módulos mais a frente.
+
+---

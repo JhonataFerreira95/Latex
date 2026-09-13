@@ -361,6 +361,20 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Pare ter nossos símbolos das equações tudo ok, importe esses comandos abaixo:
+
+    ```tex
+
+        \usepackage{amsmath}
+        \usepackage{amsfonts}
+        \usepackage{amssymb}
+
+    ```
+
+    - São pacote criados pela associação americana de matemática.
+
+---
+
 - Escrevando equação em linha no `LateX`:
 
     ```tex

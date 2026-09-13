@@ -403,4 +403,20 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Enumerando equações: 
+
+    ```tex
+
+        \section{enumerada}
+        \begin{equation}
+        x + y = z
+        \end{equation}
+
+    ```
+
+    - Aqui utilizando o `enumerada` para deixa a nossa equação númerada.
+
+---
+        
+
 

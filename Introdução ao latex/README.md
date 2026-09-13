@@ -433,7 +433,7 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
         
-- Sub-script e super-script(escrevendo em baixo e em cima):
+- Subscript e superscript(escrevendo em baixo e em cima):
 
     ```tex
 
@@ -444,7 +444,11 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
         $x^{2 + y_{2 + z1}}$\\
         $x_{2 + y^2}^4$\\
 
+        $$a^2 + b^2 = c^2$$\\
+
     ```
 
     - Qual é funcionalidade? Serve para criar equações como uma subtração por exemplos, coisas simples. Como subir um numero e descer um outro, essa é a funcionalidade.
+
+---
 

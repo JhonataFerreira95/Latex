@@ -507,3 +507,18 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Agora irei aborda a parte de formatação tabelas e como criar as mesmas:
+
+    ```tex
+
+        \section{Tabelas}
+        \begin{tabular}{lcr}
+        esquerda & centro & direita\\
+        1 & 2 & 3\\
+        4 & 5 & 6\\
+        7 & 8 & 9\\
+        \end{tabular}
+
+    ```
+    
+

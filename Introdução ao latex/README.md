@@ -521,4 +521,24 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```
 
-    - Para criar o ambiente das tabelas utilziamos o comando entre chaves `tabular`, e para determina o fim de um linha em uma tabela utilizamos o `\\`. O `lcr` significa para determina os lados da talela, sabendo `l` para `left`, o `r` para `right` e o `c` para o `centro`.
+    - Para criar o ambiente das tabelas utilziamos o comando entre chaves `tabular`, e para determina o fim de um linha em uma tabela utilizamos o `\\`. O `lcr` significa para determina os lados da talela, sabendo `l` para `left`, o `r` para `right` e o `c` para o `centro`.  
+
+---
+
+- Tabelas com barras entres as colunas:
+
+    ```tex
+
+        \section{Tabelas}
+        \begin{tabular}{|c|c|c|}
+        esquerda & centro & direita\\
+        1 & 2 & 3\\
+        4 & 5 & 6\\
+        7 & 8 & 9\\
+        \end{tabular}
+
+    ```
+
+    - Aqui em nosso argumento passamos o `|c|c|c|`, faz a criação de barras em volta da nossas colunas.
+
+---

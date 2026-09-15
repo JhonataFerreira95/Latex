@@ -520,5 +520,6 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
         \end{tabular}
 
     ```
-    
+
+    - Para criar o ambiente das tabelas utilziamos o comando entre chaves `tabular`, e para determina o fim de um linha em uma tabela utilizamos o `\\`. O 
 

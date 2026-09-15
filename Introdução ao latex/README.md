@@ -503,4 +503,7 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ## Criando e formatando tabelas e Inserindo e manipulando figuras
 
-> Aqui irei aborda como criar tabelas com diferentes números de colunas e linhas e como formatar o texto dentro das células de maneira simples e intuitiva.
+> Aqui irei aborda como criar tabelas com diferentes números de colunas e linhas e como formatar o texto dentro das células de maneira simples e intuitiva. E também irei aborda  como inserir figuras em diferentes formatos e a manipular o seu tamanho e a sua posição.
+
+---
+

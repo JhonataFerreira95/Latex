@@ -541,6 +541,7 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
         \begin{tabular}{|c|c|c|}
         \hline
         esquerda & centro & direita\\
+        \hline
         1 & 2 & 3\\
         4 & 5 & 6\\
         7 & 8 & 9\\
@@ -550,5 +551,29 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     ```
 
     - Aqui em nosso argumento passamos o `|c|c|c|`, faz a criação de barras em volta da nossas colunas. A utilizaçõa do `\hline`, serve para criar barras na parte supererior e inferior da nossa tabela.
+
+---
+
+- Centralizando tabela:
+
+    ```tex
+
+        \begin{table}[h]
+            \centering
+            \begin{tabular}{|c|c|c|}
+            \hline
+            esquerda & centro & direita\\
+            \hline
+            1 & 2 & 3\\
+            4 & 5 & 6\\
+            7 & 8 & 9\\
+            \hline
+            \end{tabular}
+            \caption{essa é minha tabela}
+        \end{table}
+
+    ```
+
+    - Aqui utilizamos o comando `\centering` para centralizar a tabela de forma automática. Sobre o argumento passado em colchetes `[h]`, significa `here`, para sinalziar que a tabela está "aqui". Abaixo utilizei um `\caption{}` para detorna que é a minha tabela.
 
 ---

@@ -521,5 +521,4 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```
 
-    - Para criar o ambiente das tabelas utilziamos o comando entre chaves `tabular`, e para determina o fim de um linha em uma tabela utilizamos o `\\`. O 
-
+    - Para criar o ambiente das tabelas utilziamos o comando entre chaves `tabular`, e para determina o fim de um linha em uma tabela utilizamos o `\\`. O `lcr` significa para determina os lados da talela, sabendo `l` para `left`, o `r` para `right` e o `c` para o `centro`.

@@ -577,3 +577,8 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
     - Aqui utilizamos o comando `\centering` para centralizar a tabela de forma automática. Sobre o argumento passado em colchetes `[h]`, significa `here`, para sinalziar que a tabela está "aqui". Abaixo utilizei um `\caption{}` para detorna que é a minha tabela.
 
 ---
+
+> Aqui aborda a parte de inserindo imagens e figuras.
+
+---
+

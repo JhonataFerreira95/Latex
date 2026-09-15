@@ -537,8 +537,18 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
         7 & 8 & 9\\
         \end{tabular}
 
+        \section{Tabelas}
+        \begin{tabular}{|c|c|c|}
+        \hline
+        esquerda & centro & direita\\
+        1 & 2 & 3\\
+        4 & 5 & 6\\
+        7 & 8 & 9\\
+        \hline
+        \end{tabular}
+
     ```
 
-    - Aqui em nosso argumento passamos o `|c|c|c|`, faz a criação de barras em volta da nossas colunas.
+    - Aqui em nosso argumento passamos o `|c|c|c|`, faz a criação de barras em volta da nossas colunas. A utilizaçõa do `\hline`, serve para criar barras na parte supererior e inferior da nossa tabela.
 
 ---

@@ -5,7 +5,7 @@
 1. [O que é o `LateX`?](#introdução-ao-latex)
 2. [Estrutura básica de documentos](#entendendo-a-estrutura-de-documentos)
 3. [Formatação de texto e equações](#formatando-texto-e-escrevendo-equações)
-4. [Tabelas, figuras e referências](#criando-e-formatando-tabelas-e-inserindo-e-manipulando-figuras)
+4. [Tabelas, figuras e referências](#criando-e-formatando-tabelas-inserindo-e-manipulando-figuras-e-criando-referências-cruzadas-e-bibliográficas)
 
 ---
 
@@ -501,7 +501,7 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
-## Criando e formatando tabelas e Inserindo e manipulando figuras
+## Criando e formatando tabelas, Inserindo e manipulando figuras e Criando referências cruzadas e bibliográficas.
 
 > Aqui irei aborda como criar tabelas com diferentes números de colunas e linhas e como formatar o texto dentro das células de maneira simples e intuitiva. E também irei aborda  como inserir figuras em diferentes formatos e a manipular o seu tamanho e a sua posição.
 

@@ -582,9 +582,27 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Importando o pacote `graphicx` para importa a imagem dentro do `LateX`:
+
+    ```tex
+
+        \usepackage{graphicx}
+
+    ```
+
+    - Aqui importei o pacote para usarmos livremente imagem no `LateX`.
+
+---
+
 - Inserindo figuras:
 
     ```tex
 
-    
+        \section{Figuras}
+        \begin{figure}[h]
+            \centering
+            \includegraphics{./caminho_da_image}
+            \caption{Imagem de exemolo}
+        \end{figure}
+
     ```

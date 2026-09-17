@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  16 SEP 2026 22:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  16 SEP 2026 23:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -223,38 +223,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 [1
 
 {C:/Users/Bass/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<Assets/imagem_exemplo.png, id=16, 380.17032pt x 366.61969pt>
+File: Assets/imagem_exemplo.png Graphic file (type png)
+<use Assets/imagem_exemplo.png>
+Package pdftex.def Info: Assets/imagem_exemplo.png  used on input line 86.
+(pdftex.def)             Requested size: 276.00105pt x 266.17007pt.
 
-c:/Users/Bass/Downloads/programacao/Latex/Introdução ao latex/new_document.tex:86: LaTeX Error: File `' not found.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86     \includegraphics{}
-                           
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2] (new_document.aux)
+[2] [3 <./Assets/imagem_exemplo.png>] (new_document.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3703 strings out of 467870
- 58460 string characters out of 5418839
+ 3679 strings out of 467870
+ 58346 string characters out of 5418839
  470282 words of memory out of 5000000
- 32562 multiletter control sequences out of 15000+600000
+ 32538 multiletter control sequences out of 15000+600000
  634969 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,295b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,295b,242s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on new_document.pdf (2 pages, 135811 bytes).
+Output written on new_document.pdf (3 pages, 154632 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

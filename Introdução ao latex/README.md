@@ -601,8 +601,12 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
         \section{Figuras}
         \begin{figure}[h]
             \centering
-            \includegraphics{./caminho_da_image}
+            \includegraphics[width=.8\textwidth]{Assets/imagem_exemplo.png}
             \caption{Imagem de exemolo}
         \end{figure}
 
     ```
+
+    - O código utiliza o ambiente `\begin{figure}` para inserir imagens. O comando principal é o `\includegraphics`, que recebe o parâmetro opcional `[width=.8\textwidth]` para definir a largura da imagem como 80% da largura do texto da página. Em seguida, entre chaves, informamos o caminho do arquivo `Assets/imagem_exemplo.png`, onde `Assets` é a pasta e `imagem_exemplo.png` é a imagem."
+
+---

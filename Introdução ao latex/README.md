@@ -582,3 +582,9 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
+- Inserindo figuras:
+
+    ```tex
+
+    
+    ```

@@ -611,4 +611,9 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 ---
 
->
+> Aqui irei aborda como fazer referência no `LateX`:
+
+    ```tex
+
+
+    ```

@@ -615,5 +615,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```tex
 
+        \section{Figuras}
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=.8\textwidth]{Assets/imagem_exemplo.png}
+            \caption{Imagem de exemolo}
+            \label[img:imagem_exemplo]
+        \end{figure}
+
+
+        veja a imagem \ref[img:imagem_exemplo]
 
     ```

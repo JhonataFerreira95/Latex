@@ -620,10 +620,29 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
             \centering
             \includegraphics[width=.8\textwidth]{Assets/imagem_exemplo.png}
             \caption{Imagem de exemolo}
-            \label[img:imagem_exemplo]
+            \label[img:exemplo]
         \end{figure}
 
 
-        veja a imagem \ref[img:imagem_exemplo]
+        veja a imagem \ref[img:exemplo]
 
     ```
+
+---
+
+- Referência equações em `LateX`:
+
+    ```tex
+
+        \section{subscrit e superscript}
+
+        /begin{equation}
+        $x^2 + y_2$\\
+        $x^{2 + y_2}$\\
+        $x^{2 + y_{2 + z1}}$\\
+        $x_{2 + y^2}^4$\\
+        $$a^2 + b^2 = c^2$$\\
+
+        /end{equation}
+
+

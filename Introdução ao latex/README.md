@@ -660,4 +660,6 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     - Aqui usei o mesmo conceito que usei para referência nossa imagem, mas com uma pequena mudança. Uso do comando pré `\label{ref:derivada}` e após a definição usei o comando `\label{eq:equação_desejada}` para referência nossa equação. 
 
+---
+
 

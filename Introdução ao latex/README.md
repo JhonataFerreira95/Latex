@@ -697,4 +697,17 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 - Aqui irei aborda a conexão do nosso arquivo `.bib` com nosso texto em `LateX`:
 
+    ```tex
+
+    \subsection{alpha}
+    eu gosto do livro \cite{textbok}
+
+    \bibliographystyle{plain}
+    \bibliography{references}
+
+
+    ```
+
+    - Primeiro vamos começar pelo comando `\bibliographystyle{plain}`, que utilizamos para definir o estilo da referência. O comando `\bibliography{references}` é para referênciar o arquivo com a extensão `.bib`.
+
 

@@ -708,6 +708,8 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```
 
-    - Primeiro vamos começar pelo comando `\bibliographystyle{plain}`, que utilizamos para definir o estilo da referência. O comando `\bibliography{references}` é para referênciar o arquivo com a extensão `.bib`.
+    - Primeiro vamos começar pelo comando `\bibliographystyle{plain}`, que utilizamos para definir o estilo da referência. O comando `\bibliography{references}` é para referênciar o arquivo com a extensão `.bib`. Para citar nosso `textbook` usamos o comando `\cite{textbook}` para citar nossas refeências. 
+
+---
 
 

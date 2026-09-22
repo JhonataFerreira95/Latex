@@ -619,13 +619,15 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
             \centering
             \includegraphics[width=.8\textwidth]{Assets/imagem_exemplo.png}
             \caption{Imagem de exemolo}
-            \label[img:exemplo]
+            \label{img:exemplo}
         \end{figure}
 
 
-        veja a imagem \ref[img:exemplo]
+        veja a imagem \ref{img:exemplo}
 
     ```
+
+    - Veja que aqui usei o comando `\label{img:nome_da_imagem_desejada}`, para fazer uma referência à uma imagem em meu texto.
 
 ---
 
@@ -655,5 +657,7 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 
     ```
+
+    - 
 
 

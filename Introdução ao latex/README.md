@@ -634,15 +634,27 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```tex
 
-        \section{subscrit e superscript}
+        \section{Operações}
+        
+        O Teorema fundamental do Cálculo é dado por:
+        \begin{equation}
+        \int_a^b f(x)\ \mathrm{d}x = F(b) - F(a)
+        \end{equation}
+        A definição de derivada é dada por:
+        \begin{equation}
+        \frac{\mathrm{d}f}{\mathrm{d}x} = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}
+        \end{equation}
+        A definição de derivada é dada pela equação \ref{eq:derivada}
+        \begin{equation}
+        \frac{\mathrm{d}f}{\mathrm{d}x} = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}
+        \label{eq:derivada}
+        \end{equation}
+        O somatório de $1$ até $n$ é dado por:
+        \begin{equation}
+        \sum_{i = 1}^n i = \frac{n \cdot (n + 1)}{2}
+        \end{equation}
 
-        /begin{equation}
-        $x^2 + y_2$\\
-        $x^{2 + y_2}$\\
-        $x^{2 + y_{2 + z1}}$\\
-        $x_{2 + y^2}^4$\\
-        $$a^2 + b^2 = c^2$$\\
 
-        /end{equation}
+    ```
 
 

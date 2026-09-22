@@ -437,14 +437,13 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```tex
 
-        \section{subscrit e superscript}
-
-        $x^2 + y_2$\\
-        $x^{2 + y_2}$\\
-        $x^{2 + y_{2 + z1}}$\\
-        $x_{2 + y^2}^4$\\
-
-        $$a^2 + b^2 = c^2$$\\
+        \begin{align}
+        x^2 + y_2 \\
+        x^{2} + y_2 \\
+        x^{2} + y_{2 + z1} \\
+        x_{2} + y^{2+4} \\
+        a^2 + b^2 = c^2
+        \end{align}
 
     ```
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  21 SEP 2026 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  21 SEP 2026 23:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -210,81 +210,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--31
 
  []
 
-c:/Users/Bass/Downloads/programacao/Latex/Introdução ao latex/new_document.tex:36: Missing $ inserted.
-<inserted text> 
-                $
-l.36 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/Bass/Downloads/programacao/Latex/Introdução ao latex/new_document.tex:36: Display math should end with $$.
-<to be read again> 
-                   \tex_par:D 
-l.36 
-     
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-
-c:/Users/Bass/Downloads/programacao/Latex/Introdução ao latex/new_document.tex:43: LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \end{equation}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-c:/Users/Bass/Downloads/programacao/Latex/Introdução ao latex/new_document.tex:43: You can't use `\eqno' in vertical mode.
-\veqno ->\@kernel@eqno 
-                       \aftergroup \ignorespaces 
-l.43 \end{equation}
-                   
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/Bass/Downloads/programacao/Latex/Introdução ao latex/new_document.tex:43: Missing $ inserted.
-<inserted text> 
-                $
-l.43 \end{equation}
-                   
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/Bass/Downloads/programacao/Latex/Introdução ao latex/new_document.tex:43: Display math should end with $$.
-<to be read again> 
-                   \endgroup 
-l.43 \end{equation}
-                   
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
 [1
 
 {C:/Users/Bass/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 <Assets/imagem_exemplo.png, id=14, 380.17032pt x 366.61969pt>
 File: Assets/imagem_exemplo.png Graphic file (type png)
 <use Assets/imagem_exemplo.png>
-Package pdftex.def Info: Assets/imagem_exemplo.png  used on input line 88.
+Package pdftex.def Info: Assets/imagem_exemplo.png  used on input line 86.
 (pdftex.def)             Requested size: 276.00105pt x 266.17007pt.
 
 
@@ -295,19 +227,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 3681 strings out of 467870
- 58362 string characters out of 5418839
- 471328 words of memory out of 5000000
- 32540 multiletter control sequences out of 15000+600000
+ 3683 strings out of 467870
+ 58416 string characters out of 5418839
+ 472328 words of memory out of 5000000
+ 32542 multiletter control sequences out of 15000+600000
  634969 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,295b,242s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on new_document.pdf (3 pages, 154974 bytes).
+<C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on new_document.pdf (3 pages, 138121 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

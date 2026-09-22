@@ -666,7 +666,14 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
     ```tex
 
+        \usepackage{hyperref}
 
     ```
+
+    - Com o comando acima importamos os `hyperlinks` em nosso ambiente `LateX`.
+
+---
+
+- Usando `hyperlinks`:
 
 

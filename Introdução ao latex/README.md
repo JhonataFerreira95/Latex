@@ -676,9 +676,11 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 - Referências bibliográficas em `LateX`:
 
-    ```tex
 
+    - Aqui irei criar um arquivo com extensão `.bib` para referênciar em nosso arquivo `LateX`, dentro desse arquivo adicione os comandos abaixo para fazer referência ao nosso `tech-book`:
 
-    ```
+        ```tex
+
+        ```
 
 

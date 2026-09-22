@@ -677,10 +677,24 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 - Referências bibliográficas em `LateX`:
 
 
-    - Aqui irei criar um arquivo com extensão `.bib` para referênciar em nosso arquivo `LateX`, dentro desse arquivo adicione os comandos abaixo para fazer referência ao nosso `tech-book`:
+    - Aqui irei criar um arquivo com extensão `.bib` para referênciar em nosso arquivo `LateX`, dentro desse arquivo adicione os comandos abaixo para fazer referência ao nosso `textbook`:
 
         ```tex
 
+            @book{textbook,
+                auth =  {Donald E. Knuth},
+                title = {the {{\Tex}}book},
+                publisher = {addison-wesley},
+                year = {1986},
+                ISBN = {0-201-13447-0}
+            }
+
         ```
+
+        - Aqui criamos o nossas referências em nosso arquivo com extensão `.bib`, veja que temos um `@book`, isso índica que a referência é sobre um livro, podendo ser diferente como um artigo `@article`.
+
+---
+
+- Aqui irei aborda a conexão do nosso arquivo `.bib` com nosso texto em `LateX`:
 
 

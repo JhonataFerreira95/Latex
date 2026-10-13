@@ -109,13 +109,13 @@ técnica e científica. O `LATEX` é a versão de alto nível do `TEX`, um siste
 
 > O `LateX` funciona como o código para escrita do texto atráves da compilação. Normalmente o código em `LateX` inicia com o `\`, usamos para escrever um comando em `LateX` e dentro desses comandos podemos adicionar argumentos, como obseva-se abaixo:
 
-    ```tex
+```tex
 
-        \title{Meu primeiro documento}
+    \title{Meu primeiro documento}
 
-    ```
+```
 
-    - Aqui escrevi um comando em `LateX` para demonstra o título.
+- Aqui escrevi um comando em `LateX` para demonstra o título.
 
 ---
 

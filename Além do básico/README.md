@@ -19,16 +19,22 @@
 
 - Aqui irei aborda como criar listas e Enumerações no `LateX`. Também irei aborda a forma prática, diferentes tipos de listas enumerações que podem ser criadas em `LateX`.
 
-```tex
+    ```tex
 
-\section{Lista Não-ordendas}
+    \section{Lista Não-ordendas}
 
-\textbf{negrito}
-textit{itálico}
+    \begin{itemize}
 
-\section{Listas enumeradas}
+        \item \textbf{Negrito}
+        \item \textbf{Itálico}
 
-```
+    \end{itemize}
+
+    \section{Listas enumeradas}
+
+    ```
+
+    - Nesse exemplo acima criei uma lista não ordenada para listar os dados que desejo.
 
 ## Customizando suas listas
 

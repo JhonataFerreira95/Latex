@@ -19,3 +19,6 @@
 
 - Aqui irei aborda como criar listas e Enumerações no `LateX`. Também irei aborda a forma prática, diferentes tipos de listas enumerações que podem ser criadas em `LateX`.
 
+## Customizando suas listas
+
+- Aqui irei aborda como ersonalizar o `layout` das suas listas e enumerações. Além disso, aprenderá a alterar o símbolo ou a marca de enumeração, a indentação e o espaçamento entre os itens de uma lista.

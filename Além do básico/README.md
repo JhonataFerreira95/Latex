@@ -19,6 +19,8 @@
 
 - Aqui irei aborda como criar listas e Enumerações no `LateX`. Também irei aborda a forma prática, diferentes tipos de listas enumerações que podem ser criadas em `LateX`.
 
+---
+
     ```tex
 
     \section{Lista Não-ordendas}
@@ -58,3 +60,23 @@
 ## Customizando suas listas
 
 - Aqui irei aborda como ersonalizar o `layout` das suas listas e enumerações. Além disso, aprenderá a alterar o símbolo ou a marca de enumeração, a indentação e o espaçamento entre os itens de uma lista.
+
+---
+
+    ```tex
+
+    \section{Listas Enumeradas}
+
+    \begin{enumerate}[a.]
+
+        \item \textbf{Negrito}
+        \item \textbf{Itálico}
+        \item \textbf{Itálico}
+
+    \end{enumerate}
+
+    ```
+
+    - No código acima estou costumizando as linhas lista, ela vai ser alterada, no lugar de numeração de número vão ser utilizados letras
+
+    ---

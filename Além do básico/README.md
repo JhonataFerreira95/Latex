@@ -80,3 +80,21 @@
     - No código acima estou costumizando as linhas lista, ela vai ser alterada, no lugar de numeração de número vão ser utilizados letras
 
     ---
+
+        ```tex
+
+        \section{Listas Enumeradas}
+
+        \begin{enumerate}[i]
+
+            \item \textbf{Negrito}
+            \item \textbf{Itálico}
+            \item \textbf{Itálico}
+
+        \end{enumerate}
+
+        ```
+
+        - Acima fiz a mesma coisa com as lestras, mas com números romanos.
+
+        ---

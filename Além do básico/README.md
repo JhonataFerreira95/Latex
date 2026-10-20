@@ -30,11 +30,30 @@
 
     \end{itemize}
 
-    \section{Listas enumeradas}
-
     ```
 
     - Nesse exemplo acima criei uma lista não ordenada para listar os dados que desejo.
+
+    ---
+
+
+    ```tex
+
+    \section{Listas Enumeradas}
+
+    \begin{enumerate}
+
+        \item[+] \textbf{Negrito}
+        \item[*] \textbf{Itálico}
+        \item[] \textbf{Itálico}
+
+    \end{enumerate}
+
+    ```
+
+    - Nesse exemplo acima criei uma lista enumerada dos dados abordados.
+
+    ---
 
 ## Customizando suas listas
 

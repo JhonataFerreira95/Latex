@@ -21,7 +21,7 @@
 
 ---
 
-    ```tex
+```tex
 
     \section{Lista Não-ordendas}
 
@@ -32,14 +32,14 @@
 
     \end{itemize}
 
-    ```
+```
 
-    - Nesse exemplo acima criei uma lista não ordenada para listar os dados que desejo.
+- Nesse exemplo acima criei uma lista não ordenada para listar os dados que desejo.
 
-    ---
+---
 
 
-    ```tex
+```tex
 
     \section{Listas Enumeradas}
 
@@ -51,11 +51,11 @@
 
     \end{enumerate}
 
-    ```
+```
 
-    - Nesse exemplo acima criei uma lista enumerada dos dados abordados.
+- Nesse exemplo acima criei uma lista enumerada dos dados abordados.
 
-    ---
+---
 
 ## Customizando suas listas
 
@@ -63,7 +63,7 @@
 
 ---
 
-    ```tex
+```tex
 
     \section{Listas Enumeradas}
 
@@ -75,26 +75,30 @@
 
     \end{enumerate}
 
-    ```
+```
 
-    - No código acima estou costumizando as linhas lista, ela vai ser alterada, no lugar de numeração de número vão ser utilizados letras
+- No código acima estou costumizando as linhas lista, ela vai ser alterada, no lugar de numeração de número vão ser utilizados letras
 
-    ---
+---
 
-        ```tex
+```tex
 
-        \section{Listas Enumeradas}
+    \section{Listas Enumeradas}
 
-        \begin{enumerate}[i]
+    \begin{enumerate}[i]
 
-            \item \textbf{Negrito}
-            \item \textbf{Itálico}
-            \item \textbf{Itálico}
+        \item \textbf{Negrito}
+        \item \textbf{Itálico}
+        \item \textbf{Itálico}
 
-        \end{enumerate}
+    \end{enumerate}
 
-        ```
+```
 
-        - Acima fiz a mesma coisa com as lestras, mas com números romanos.
+- Acima fiz a mesma coisa com as lestras, mas com números romanos.
 
-        ---
+---
+
+## Geometria da página
+
+> 

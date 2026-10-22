@@ -21,5 +21,4 @@ DOCUMENTAÇÃO LATEX/
 
 1. [Introdução](#introdução)
 
-
 ## Introdução

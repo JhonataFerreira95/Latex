@@ -105,6 +105,12 @@
 
 ---
 
--
+- Antes de seguir, irei aborda o pacote `Lipsum`, para usarmos o `dame-text`, que é um texto que não vale nada, sem valor semântico. Para isso importe o comando abaixo em seu código `LateX`:
+
+```tex
+
+    \usepackage{lipsum}
+
+```
 
 ---

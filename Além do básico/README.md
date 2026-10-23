@@ -111,6 +111,10 @@
 
     \usepackage{lipsum}
 
+    \lipsum[1-10]
+
 ```
+
+- O código acima importa o pacote `lipsum` e o comando após criar vários texto sem valor semântico, de forma automática.
 
 ---

@@ -118,3 +118,5 @@
 - O código acima importa o pacote `lipsum` e o comando após criar vários texto sem valor semântico, de forma automática.
 
 ---
+
+- Agora irei aborda o `geometry`

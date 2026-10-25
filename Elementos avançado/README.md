@@ -385,3 +385,17 @@
 - Importei ambos os pacotes.
 
 ---
+
+- Usando parâmetros em química
+
+```tex
+
+\section{química}
+
+\ce{H2O + C -> H2 + CO}
+
+```
+
+- Acima usei comandos para criar uma fórmula química.
+
+---

@@ -2,9 +2,9 @@
 
 ## Índice
 
-1. [Listas, enumerações e descrições]()
-2. [Personalização do `layout` da página]()
-3. [Recursos de matemática e ciência]()
+1. [Listas, enumerações e descrições](#listas-e-enumerações)
+2. [Personalização do `layout` da página](#geometria-da-página)
+3. [Recursos de matemática e ciência](#aprendendo-mais-sobre-matemática-no-latex)
 
 ---
 

@@ -130,3 +130,13 @@
 - Dentro do `\usepackage{geometry}`, podemos abrir colchetes de colocar parâmetros para deixar a personalização da página ao nosso gosto.
 
 ---
+
+- Definindo a margem uniforme:
+
+```tex
+
+\usepackage[margin=2cm]{geometry}
+
+```
+
+---

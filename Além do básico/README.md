@@ -161,3 +161,13 @@
 > Ire aborda como criar cabeçalhos e rodapés personalizados. Você aprenderá a inserir o número da página, o título do documento e o nome do autor no cabeçalho e rodapé, além de inserir linhas e outros elementos gráficos.
 
 --- 
+
+- Antes de seguir, para tudo que irei abordar, utilizarei o pacote abaixo:
+
+```tex
+
+    \usepackage{fancyhdr}
+
+```
+
+---

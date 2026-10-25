@@ -3,7 +3,7 @@
 ## Índice
 
 1. [Cores, ilustrações, tipografia e fontes avançadas](#além-do-básico)
-2. [Criando macros e ambientes personalizados]()
+2. [Criando macros e ambientes personalizados](#customizando-suas-listas)
 3. [Utilizando `Latex` com outros `softwares`]()
 
 
@@ -209,5 +209,11 @@
 ```
 
 - Os comandos acima são para gerar o rodapé na esquerda, centro e na direita da página.
+
+---
+
+## Aprendendo mais sobre Matemática no LaTeX 
+
+> Recursos avançados de formatação matemática. Além disso, aprenderá a lidar com matrizes e vetores, a alinhar e agrupar equações matemáticas, e a utilizar diferentes estilos de símbolos matemáticos.
 
 ---

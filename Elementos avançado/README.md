@@ -246,3 +246,26 @@
 
 - Acima utilziei a matriz, dentro do ambiente `equation`, para detonar a ragião da matriz usamos o comando `\begin{matrix}`, para deixar formatado com colchetes usamos o `pmtrix`.
 
+---
+
+- Sistema e casos:
+
+```tex
+
+\section{sistemas e casos}
+
+\begin{equation}
+    Y =
+    \begin{cases}
+        1, Y>X \\
+        0, Z\le Y
+    \end{cases}
+\end{equation}
+
+```
+
+- Acima usamamos o ambiente `case`, para detornar uma parte de um sistema matemático.
+
+---
+
+

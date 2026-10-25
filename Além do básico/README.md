@@ -119,4 +119,14 @@
 
 ---
 
-- Agora irei aborda o `geometry`
+- Agora irei aborda o `geometry`, mas antes irei importa o comando para utilziar a geometria em `LateX`:
+
+```tex
+
+    \usepackage[top=2cm, bottom=3cm, left=1.5cm, right=3.5cm]{geometry}
+
+```
+
+- Dentro do `\usepackage{geometry}`, podemos abrir colchetes de colocar parâmetros para deixar a personalização da página ao nosso gosto.
+
+---

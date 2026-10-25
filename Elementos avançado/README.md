@@ -290,6 +290,28 @@
 
 ---
 
+- Marcações gráficas:
+
+```tex
+
+\section{marcas gráficas}
+
+\begin{itemize}
+    \item $\hat{x}$: chapeu;
+    \item $\bar{x}$: barra;
+    \item $\vec{x}$: vetor;
+    \item $\dot{x}$: ponto;
+    \item $\tilde{x}$: til;
+    \item $\ddot{x}$: dois pontos;
+    \item $\dddot{x}$: três pontos;
+\end{itemize}
+
+```
+
+- Observa-se acima que abordei algumas marcas gráficas para serem colocadas em nossas expressões.
+
+---
+
 
 
 

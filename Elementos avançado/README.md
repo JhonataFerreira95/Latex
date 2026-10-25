@@ -335,3 +335,18 @@
 
 ---
 
+- Alinhamento de equações de forma diferentes:
+
+```tex
+
+\begin{align*}
+    x - 5 &= 2 & 2y + 2 &= 1 \\
+    x &= 7 & 2y &= -1 \\
+    & & y &= - \dfrac{1}{2}
+\end{align*}
+
+```
+
+- Aqui estou alinhando as equações de forma diferente, dispor elas. 
+
+---

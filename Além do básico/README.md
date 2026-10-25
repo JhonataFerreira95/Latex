@@ -135,8 +135,23 @@
 
 ```tex
 
-\usepackage[margin=2cm]{geometry}
+    \usepackage[margin=2cm]{geometry}
 
 ```
+
+- Definindo o padrão de margem da página em `LateX`
+
+---
+
+- Definindo o tamanho da página:
+
+
+```tex
+
+    \usepackage[margin=2cm, a4paper]{geometry}
+
+```
+
+- Acima utilizei o parâmetro `a4paper` para definiri o tamanho da página em `LateX`.
 
 ---

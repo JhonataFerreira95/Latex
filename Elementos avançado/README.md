@@ -372,3 +372,16 @@
 - Acima abordei os tipo de espaçamento no `LateX`.
 
 ---
+
+- Pacotes `mhchem` para química e o `physics` para física. Para isso importe os pacotes abaixos:
+
+```tex
+
+\usepackage{mhchem}
+\usepackage{physics}
+
+```
+
+- Importei ambos os pacotes.
+
+---

@@ -350,3 +350,25 @@
 - Aqui estou alinhando as equações de forma diferente, dispor elas. 
 
 ---
+
+- Espaçamento:
+
+```tex
+
+\section{Espaçamento}
+
+\begin{itemize}
+    \item $x = y$: sem espaçamento;
+    \item $x \, = \, y$: espaçamento pequeno;
+    \item $x \: = \: y$: espaçamento médio;
+    \item $x \; = \; y$: espaçamento grande;
+    \item $x \! = \! y$: espaçamento negativo;
+    \item $x \quad = \quad y$: espaçamento de tamanho de um caractere;
+    \item $x \qquad = \qquad y$: espaçamento de tamanho de dois caracteres.
+\end{itemize}
+
+```
+
+- Acima abordei os tipo de espaçamento no `LateX`.
+
+---

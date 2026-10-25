@@ -171,3 +171,16 @@
 ```
 
 ---
+
+- Mudando o estilo da página:
+
+```tex
+
+    \pagestyle{headings}
+
+```
+
+- Comando acima usamos para mudar o estilo da página.
+
+---
+

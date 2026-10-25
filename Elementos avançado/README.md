@@ -245,7 +245,7 @@
 
 ```
 
-- Acima utilziei a matriz, dentro do ambiente `equation`, para detonar a ragião da matriz usamos o comando `\begin{matrix}`, para deixar formatado com colchetes usamos o `pmtrix`.
+- Acima utilziei a matriz, dentro do ambiente `equation`, para detonar a ragião da matriz usamos o comando `\begin{matrix}`, para deixar formatado com parênteses usamos o `pmtrix`.
 
 ---
 
@@ -318,4 +318,20 @@
 
 ---
 
+- Agora irei aborda o ambiente `align`:
+
+```tex
+
+\section{alinhamento}
+
+\begin{align*}
+    x + y &= z \\
+    k &= j - o 
+\end{align}
+
+```
+
+- Observa-se que acima usei o ambiente `align`, que por si só já é um ambiente matemático, após o mesmo usei o `*`, serve para remover as numerações das equações. Para alinhar de forma uniforme, usamos o `&` para alinharmos onde for necessário. 
+
+---
 

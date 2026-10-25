@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[shotlabels]{enumitem}
+\usepackage{lipsum}
+\usepackage[margin=2cm, a4paper]{geometry}
+\usepackage{fancyhdr}
+
+\title{Meu primeiro documento}
+\author{eduardo.salles}
+\date{October 2023}
+
+\pagestyle{fancy}
+\lhead{esquerda no topo}
+\chead{cetro no topo}
+\rhead{direito no topo}
+
+
+\lfoot{esquerda no rodapé}
+\cfoot{centro no rodapé}
+\rfoot{direita no rodapé}
+
+\begin{document}
+
+\maketitle
+
+\section{Lista Não-ordendas}
+
+\begin{itemize}
+
+    \item \textbf{Negrito}
+    \item \textbf{Itálico}
+
+\end{itemize}
+
+\section{Listas enumeradas}
+
+\begin{enumerate}
+
+    \item \textbf{Negrito}
+    \item \textbf{Itálico}
+    \item \textbf{Itálico}
+
+\end{enumerate}
+
+
+\section{lipsum}
+
+\lipsum[1-10]
+
+
+\end{document}

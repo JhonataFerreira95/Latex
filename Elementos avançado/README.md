@@ -217,4 +217,22 @@
 
 ---
 
--
+- Irei aborda alguns comandos essênciais para criar cálculos em `LateX`. Começarei falando de `Matrizes`
+
+```tex
+
+    \section{Matrizes}
+
+    \begin{equation}
+    A =
+        \begin{pmatrix}
+            1 & 2 & 3\\
+            0 & 4 & 5
+        \end{pmatrix}
+
+    \end{equation}
+
+```
+
+- Acima utilziei a matriz, dentro do ambiente `equation`, para detonar a ragião da matriz usamos o comando `\begin{matrix}`, para deixar formatado com colchetes usamos o `pmtrix`.
+

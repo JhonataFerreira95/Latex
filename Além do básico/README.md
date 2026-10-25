@@ -184,7 +184,7 @@
 
 ---
 
-- Agora irei aborda o cabeçalhos:
+- Agora irei aborda os cabeçalhos:
 
 ```tex
 
@@ -195,5 +195,19 @@
 ```
 
 - Os comandos acima são para gerar cabeçalho na esquerda, centro e direita da página.
+
+---
+
+- Irei aborda os rodapé:
+
+```tex
+
+    \lfoot{esquerda no rodapé}
+    \cfoot{centro no rodapé}
+    \rfoot{direita no rodapé}
+
+```
+
+- Os comandos acima são para gerar o rodapé na esquerda, centro e na direita da página.
 
 ---

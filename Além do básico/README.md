@@ -184,3 +184,16 @@
 
 ---
 
+- Agora irei aborda o cabeçalhos:
+
+```tex
+
+    \lhead{esquerda no topo}
+    \chead{cetro no topo}
+    \rhead{direito no topo}
+
+```
+
+- Os comandos acima são para gerar cabeçalho na esquerda, centro e direita da página.
+
+---

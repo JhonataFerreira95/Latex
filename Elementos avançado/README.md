@@ -217,11 +217,12 @@
 
 ---
 
-- Antes de seguir para o ambiente matemático, devo ressaltar a importância do pacote `amsmath`, para usarmos todo o potência e formas disponível:
+- Antes de seguir para o ambiente matemático, devo ressaltar a importância do pacote `amsmath` e `amssymb` para os símbolos, para usarmos todo o potência e formas disponível:
 
 ```tex
 
     \usepackage{amsmath}
+    \usepackage{amssymb}
 
 ```
 
@@ -267,5 +268,28 @@
 - Acima usamamos o ambiente `case`, para detornar uma parte de um sistema matemático.
 
 ---
+
+- Diferentes estilos:
+
+```tex
+
+\section{diferentes estilos}
+
+\begin{itemize}
+    \item $\mathbf{x}$: negrito;
+    \item $\mathcal{x}$: caligrafia;
+    \item $\mathfrak{x}$: gótico;
+    \item $\mathbb{x}$: balckboard;
+    \item $\mathit{x}$: itálico;
+    \item $\mathrm{x}$: romano;
+\end{itemize}
+
+```
+
+- Acima apresento diferentes estilos para escrever nossas equações/matrizes or casos.
+
+---
+
+
 
 

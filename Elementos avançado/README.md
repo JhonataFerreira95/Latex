@@ -217,6 +217,16 @@
 
 ---
 
+- Antes de seguir para o ambiente matemático, devo ressaltar a importância do pacote `amsmath`, para usarmos todo o potência e formas disponível:
+
+```tex
+
+    \usepackage{amsmath}
+
+```
+
+---
+
 - Irei aborda alguns comandos essênciais para criar cálculos em `LateX`. Começarei falando de `Matrizes`
 
 ```tex

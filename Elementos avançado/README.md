@@ -312,6 +312,10 @@
 
 ---
 
+## Melhorando a aparência de suas equações e expressões científicas
 
+> Formatar equações e expressões científicas. Também será apresentado a diferentes pacotes para facilitar o uso de símbolos matemáticos e relacionados à Física e Química.
+
+---
 
 

@@ -155,3 +155,9 @@
 - Acima utilizei o parâmetro `a4paper` para definiri o tamanho da página em `LateX`.
 
 ---
+
+## Cabeçalhos e rodapés
+
+> Ire aborda como criar cabeçalhos e rodapés personalizados. Você aprenderá a inserir o número da página, o título do documento e o nome do autor no cabeçalho e rodapé, além de inserir linhas e outros elementos gráficos.
+
+--- 

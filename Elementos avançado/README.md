@@ -386,16 +386,36 @@
 
 ---
 
-- Usando parâmetros em química
+- Usando parâmetros em química:
 
 ```tex
 
 \section{química}
 
-\ce{H2O + C -> H2 + CO}
+    \ce{H2O + C -> H2 + CO}
 
 ```
 
 - Acima usei comandos para criar uma fórmula química.
 
 ---
+
+- Irei aborda a parte dos parâmetros de física:
+
+```tex
+
+\section{Física (e matemática)}
+
+\begin{align*}
+    \dv[x] \sin(x) &= \cos(x)\\
+    \dv{\sin(x)}{x} &= \cos(x)\\
+    \dv[2]{x} \sin(x) &= -\sin(x)\\
+    \pdv{x} f(x, y) &= y\\
+\end{align*}
+
+```
+
+- Acima abordei a parte de física com os parãmetros em `LateX`.
+
+---
+

@@ -419,3 +419,20 @@
 
 ---
 
+- Matrizes em física:
+
+```tex
+
+A matriz identidade de tamanho 3 é $\smqty(\imat{3})$.
+\bigbreak
+A matriz diagonal de tamanho 3 com elementos $1, 2, 3$ é:
+
+\[
+    \smqty(\dmat{1, 2, 3})
+\]
+
+```
+
+- Aqui usei 2 tipo de parâmetros de matrizes.
+
+---

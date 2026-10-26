@@ -14,3 +14,13 @@
 
 ---
 
+## Criando uma apresentação simples com Beamer
+
+- Aqui irei abordar a criação de uma apresentação simples utilizando a classe Beamer. Você verá como criar slides, adicionar títulos, subtítulos, listas, imagens, tabelas, equações e referências.
+
+```tex
+
+
+
+```
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  27 OCT 2026 01:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  27 OCT 2026 02:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -619,6 +619,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 8.
+ (new_document.out) (new_document.out)
 \@outlinefile=\write5
 \openout5 = `new_document.out'.
 
@@ -683,10 +684,9 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (C:\Users\Bass\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file new_document.nav.
+) (new_document.nav)
 LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
-(C:\Users\Bass\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\Bass\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
@@ -715,28 +715,21 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-Package rerunfilecheck Warning: File `new_document.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `new_document.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `new_document.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21777 strings out of 467870
- 424649 string characters out of 5418839
- 891520 words of memory out of 5000000
- 50215 multiletter control sequences out of 15000+600000
- 633637 words of font info for 61 fonts, out of 8000000 for 9000
+ 21814 strings out of 467870
+ 425531 string characters out of 5418839
+ 891590 words of memory out of 5000000
+ 50245 multiletter control sequences out of 15000+600000
+ 633943 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,481b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb>
-Output written on new_document.pdf (2 pages, 35231 bytes).
+<C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb>
+Output written on new_document.pdf (2 pages, 45805 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

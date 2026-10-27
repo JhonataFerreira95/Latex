@@ -28,4 +28,17 @@
 
 ---
 
-- 
+- Utilizando o ambiente `frame`, para melhorar qualidade do nosos slide
+
+```tex
+
+\begin{frame}{Título}
+    \framesubtitle{Subtítulo}
+    \lipsum[1]
+\end{frame}
+
+```
+
+- O comando acima serve para criar um título, um subtítulo e um bloco de texto. Para isso usamos os parãmetros do `freme` no ambiente `begin` e para subtítulo, usamos o `framesubtitle`.
+
+---

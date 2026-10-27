@@ -73,3 +73,11 @@
 - O comando aicma serve para definir sua instituição em um slide em `LaTeX`.
 
 ---
+
+## Estilizando e animando suas apresentações
+
+> Agora irei abordar como estilizar e animar as suas apresentações. Você verá como alterar o tema da apresentação, adicionar animações, criar blocos de texto, adicionar notas e criar apresentações em `.pdf`.
+
+---
+
+

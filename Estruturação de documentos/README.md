@@ -2,7 +2,7 @@
 
 ## Índice
 
-1. [Criando apresentações com `Beamer`]()
+1. [Criando apresentações com `Beamer`](#criando-uma-apresentação-simples-com-beamer)
 2. [Personalização de estilos e modelos]()
 3. [Escrevendo artigos e relatórios cietíficos]()
 
@@ -40,5 +40,24 @@
 ```
 
 - O comando acima serve para criar um título, um subtítulo e um bloco de texto. Para isso usamos os parãmetros do `freme` no ambiente `begin` e para subtítulo, usamos o `framesubtitle`.
+
+---
+
+- Usando blocos de texto com slides:
+
+```tex
+
+\section{Beamer 1}
+\begin{frame}{Título}
+    \framesubtitle{Subtítulo}
+    \lipsum[1]
+    \begin{block}{Título do block}
+        ksksksksksk
+    \end{block}
+\end{frame}
+
+```
+
+- Aqui usamos o `block` para criar caixas de destaque com um título personalizado em apresentações de slides.
 
 ---

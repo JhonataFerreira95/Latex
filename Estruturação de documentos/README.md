@@ -61,3 +61,15 @@
 - Aqui usamos o `block` para criar caixas de destaque com um título personalizado em apresentações de slides.
 
 ---
+
+- Definindo sua instituição em slide no `LaTeX`:
+
+```tex
+
+\institute{IFRN}
+
+```
+
+- O comando aicma serve para definir sua instituição em um slide em `LaTeX`.
+
+---

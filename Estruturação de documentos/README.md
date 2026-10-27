@@ -20,7 +20,12 @@
 
 ```tex
 
-
+\documentclass{beamer}
 
 ```
 
+- Esse comando acima, transforma o `PDF` para `slide` em `LaTeX`
+
+---
+
+- 

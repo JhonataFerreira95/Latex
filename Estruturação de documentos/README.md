@@ -80,4 +80,17 @@
 
 ---
 
+- Irei aborda o símbolos de navegação e os número do rodapé do slide:
+
+```tex
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
+
+```
+
+- O primeiro parâmetro abordado é para remover os símbolos de navegação do slide. O segundo é para marcar a pagina atual e as faltantes para finalizar o slide.
+
+---
+
 

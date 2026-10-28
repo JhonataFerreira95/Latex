@@ -93,4 +93,16 @@
 
 ---
 
+- Temas em nossos slide no `LaTeX`:
+
+```tex
+
+\usetheme{Warsaw}
+
+```
+
+- Acima adiconei o tema, mas pode pesquisa vários outros disponível para o `LaTeX`.
+
+---
+
 

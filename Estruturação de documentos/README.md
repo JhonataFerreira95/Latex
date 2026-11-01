@@ -245,6 +245,14 @@
 
     - Como é muito comum importa ou exporta coisas na progração, no `LaTeX` é algo bem comum inclusive, imagine ter que criar várias seções, mas o arquivo `.tex` é extesno, você pode apenas criar um novo arquivo e importe, assim se tornando uma tarefa mais simples, orgazinada de com boas práticas.
 
+    ```tex
+
+        \input{arquivo}
+
+    ```
+
+    - O comando acima serve para importe arquivos em `LaTeX`.
+
 ---
 
 

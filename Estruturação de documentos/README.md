@@ -3,7 +3,7 @@
 ## Índice
 
 1. [Criando apresentações com `Beamer`](#criando-uma-apresentação-simples-com-beamer)
-2. [Personalização de estilos e modelos]()
+2. [Personalização de estilos e modelos](#estilizando-e-animando-suas-apresentações)
 3. [Escrevendo artigos e relatórios cietíficos]()
 
 ---
@@ -230,6 +230,12 @@
 ```
 
 - Aqui usei o comando `{minted}{ruby}` para apresentar um código `ruby` no `LaTeX`.
+
+---
+
+## Escrevendo artigos e relatórios científicos
+
+> Como utilizar o LaTeX para publicações científicas, como artigos, utilizando modelos de periódicos e de conferências. Além disso, o tópico ensina a gerenciar documentos grandes e a resolver os problemas mais comuns.
 
 ---
 

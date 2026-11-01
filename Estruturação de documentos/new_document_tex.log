@@ -498,7 +498,7 @@ l.48 ...ootnotesize, linenos, numbersep=2mm]{ruby}
 \pydata@fh@0=\write5
 \openout5 = `_029061A32F2EB46760C339A8BBEBA549.data.minted'.
 
-runsystem(latexminted config  --timestamp 20261101173112 029061A32F2EB46760C339A8BBEBA549)...disabled (restricted).
+runsystem(latexminted config  --timestamp 20261101173139 029061A32F2EB46760C339A8BBEBA549)...disabled (restricted).
 
 
 c:/Users/Bass/Downloads/programacao/Latex/Estruturação de documentos/new_document_tex.tex:56: Package minted Error: minted v3+ executable is not installed, is not added to PATH, or is not permitted with restricted shell escape; or MiKTeX is being used with -aux-directory or -output-directory without setting a TEXMF_OUTPUT_DIRECTORY environment variable.

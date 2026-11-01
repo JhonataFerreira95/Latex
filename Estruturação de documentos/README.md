@@ -181,6 +181,28 @@
 
 ---
 
+- Dividino a caixa de texto:
+
+```tex
+
+    \subsection{personalizando}
+
+    \begin{tcolorbox}[colback=red!5!white,colfram=red!75!black,title=meu titulo]
+        caixa superior.
+        \lipsum[1]
+        \tcblower
+        caixa de texto inferior.
+        \lipsum[1]
+    \end{tcolorbox}
+
+```
+
+- Esse comando `\tcblower`, divide a nossa caixa de texto em 2, com uma linha tracejada.
+
+---
+
+
+
 
 
 

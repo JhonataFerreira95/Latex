@@ -2,7 +2,7 @@
 
 ## Índice
 
-1. [Cores, ilustrações, tipografia e fontes avançadas]()
+1. [Cores, ilustrações, tipografia e fontes avançadas](#cores-e-ilustrações)
 2. [Criando macros e ambientes personalizados]()
 3. [Utilizando `Latex` com outros `softwares`]()
 
@@ -15,3 +15,6 @@
 
 ---
 
+## Cores e ilustrações
+
+- Como utilizar cores no seu documento, a definir as suas próprias cores e a criar ilustrações simples com `TikZ`.

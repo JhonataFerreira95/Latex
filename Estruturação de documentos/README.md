@@ -239,6 +239,14 @@
 
 ---
 
+## Utilizando um template de artigo 
+
+- Irei aborda como utilizar o template de artigo do `NeurIPS`, que é adequado para publicações científicas. Também será abordado o uso do `ABNTeX2`, um pacote que permite utilizar o `LaTeX` para escrever documentos de acordo com as normas da `ABNT`.
+
+
+
+
+
 
 
 

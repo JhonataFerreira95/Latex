@@ -11,3 +11,7 @@
 
 ## Além do Básico
 
+> Aqui irei abordar algumas funcionalidades mais avançadas do LaTeX, como o uso de cores, ilustrações, criação macros e ambientes personalizados, além de utilizar a ferramenta com outros programas.
+
+---
+

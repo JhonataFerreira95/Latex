@@ -211,6 +211,28 @@
 
 ---
 
+- Usando o ambiente `mint`:
+
+```tex
+
+    \section{códigos em LaTeX}
+
+    \begin{minted}[frame=lines, framesep=2mm, baselinesretch=1.2, bgcolor=gray!20!white, &fontsize=\footnotesize, linenos, numbersep=2mm]{ruby}
+        def fatorial(n)
+            if n == 0
+                return 1
+            else
+                return n * fatorial(n-1)
+            end
+        end
+    \end{minted}
+
+```
+
+- Aqui usei o comando `{minted}{ruby}` para apresentar um código `ruby` no `LaTeX`.
+
+---
+
 
 
 

@@ -201,7 +201,15 @@
 
 ---
 
+- Irei aborda como exibir código ou linguagem de programção via `LaTeX`, para isso basta importa esse pacote abaixo em seu documento `LaTeX`:
 
+```tex
+
+    \usepackage{minted}
+
+```
+
+---
 
 
 

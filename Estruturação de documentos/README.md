@@ -141,6 +141,30 @@
 
 ---
 
+- Para criar textos caixas, vamos usar o pacote abaixo:
+
+```tex
+
+    \usepackage{tcolorbox}
+
+```
+
+---
+
+- Usando o `tcolorbox`:
+
+```tex
+
+    \section{caixas de texto}
+
+    \begin{tcolorbox}
+        \lipsum[1]
+    \end{tcolorbox}
+
+```
+
+-
+
 
 
 

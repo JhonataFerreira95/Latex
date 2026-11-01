@@ -121,6 +121,19 @@
 
 ---
 
+- Alerando o estilo da secção antes do meu preâmbulo no `LaTeX`.
+
+```tex
+
+    \titleformat{\section}[hang]
+    {\nomalfront\bfseries\Large}
+    {Seção \thesection}{0.5em}{\hrule\vspace{0.5em}}
+
+```
+
+---
+
+
 
 
 

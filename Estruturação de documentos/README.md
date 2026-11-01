@@ -111,6 +111,16 @@
 
 ---
 
+- Irei aborda um pacote para alterar qualquer tipo de comando de secção, basta importa o pacote abaixo em seu arquivo `LaTeX`.
+
+```tex
+
+    \usepackage{titlesec}
+
+```
+
+---
+
 
 
 

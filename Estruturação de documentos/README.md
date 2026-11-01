@@ -243,6 +243,11 @@
 
 - Irei aborda como utilizar o template de artigo do `NeurIPS`, que é adequado para publicações científicas. Também será abordado o uso do `ABNTeX2`, um pacote que permite utilizar o `LaTeX` para escrever documentos de acordo com as normas da `ABNT`.
 
+    - Como é muito comum importa ou exporta coisas na progração, no `LaTeX` é algo bem comum inclusive, imagine ter que criar várias seções, mas o arquivo `.tex` é extesno, você pode apenas criar um novo arquivo e importe, assim se tornando uma tarefa mais simples, orgazinada de com boas práticas.
+
+---
+
+
 
 
 

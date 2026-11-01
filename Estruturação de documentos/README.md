@@ -131,6 +131,8 @@
 
 ```
 
+- As regras acima fazem eu mudar o estilo das minhas `\section` e `\subsection`.
+
 ---
 
 

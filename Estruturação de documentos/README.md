@@ -241,7 +241,7 @@
 
 ## Gerenciando documentos grandes e resolvendo problemas comuns
 
-- Irei aborda como utilizar o template de artigo do `NeurIPS`, que é adequado para publicações científicas. Também será abordado o uso do `ABNTeX2`, um pacote que permite utilizar o `LaTeX` para escrever documentos de acordo com as normas da `ABNT`.
+- Como gerenciar documentos grandes – por exemplo, dividi-los em vários arquivos – e a resolver os problemas mais comuns, como erros de compilação e de pacotes.
 
     - Como é muito comum importa ou exporta coisas na progração, no `LaTeX` é algo bem comum inclusive, imagine ter que criar várias seções, mas o arquivo `.tex` é extesno, você pode apenas criar um novo arquivo e importe, assim se tornando uma tarefa mais simples, orgazinada de com boas práticas.
 
@@ -252,6 +252,12 @@
     ```
 
     - O comando acima serve para importe arquivos em `LaTeX`.
+
+---
+
+## Conclusão
+
+> Aqui abordei como estruturar diversos tipos de documentos em `LaTeX`. Primeiramente, você foi introduzido à classe `Beamer`, uma forma de criar apresentações nessa ferramenta. Em seguida, entendeu como alterar o estilo dos capítulos e das seções de um documento, criar caixas de texto e exibir códigos-fonte. Por fim, aprendeu a utilizar o `LaTeX` para publicações científicas, como artigos, utilizando modelos de periódicos e de conferências bem como a gerenciar documentos grandes e resolver os problemas mais comuns.
 
 ---
 

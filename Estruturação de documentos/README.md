@@ -163,7 +163,23 @@
 
 ```
 
--
+---
+
+- Costumizando o `tcolor box`:
+
+```tex
+
+    \subsection{personalizando}
+
+    \begin{tcolorbox}[colback=red!5!white,colfram=red!75!black,title=meu titulo]
+        Essa caixa de texto
+    \end{tcolorbox}
+
+```
+
+- Acima usei parâmetros dentro do `{tcolorbox}` para peprsonalizar nossa caixa de texto de forma simples.
+
+---
 
 
 

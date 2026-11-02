@@ -18,3 +18,13 @@
 ## Cores e ilustrações
 
 - Como utilizar cores no seu documento, a definir as suas próprias cores e a criar ilustrações simples com `TikZ`.
+
+```tex
+
+    \usepackage{times}
+
+```
+
+- O pacote acima foi para importa uma fonte em `LaTeX`, a fonte em questão foi à `Times New Roman`.
+
+---

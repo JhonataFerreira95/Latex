@@ -44,3 +44,16 @@
 
 ---
 
+- Usando o `xcolor`:
+
+```tex
+
+    \section{Introduction}
+
+    \textcolor{red}{\lipsum[1]}
+
+```
+
+- Acima usei o comando `\textcolor{red}` para definir a fonte do meu texto como vermelha.
+
+---

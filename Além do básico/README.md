@@ -25,6 +25,22 @@
 
 ```
 
-- O pacote acima foi para importa uma fonte em `LaTeX`, a fonte em questão foi à `Times New Roman`.
+- O pacote acima foi para importa uma fonte em `LaTeX`, a fonte em questão foi à `Times New Roman`. Isso vale para importar qualquer tipo de fonte em `LaTeX`.
 
 ---
+
+## Tipografia e fontes avançadas
+
+- Como  utilizar formatações de tipografia mais avançadas e a personalizar a sua tipografia. Antes de tudo vamos importa os pacotes;
+
+```tex
+
+    \usepackage{xcolor}
+    \usepackage{tikz}
+
+```
+
+- Os pacotes acima são para ilustrações(`tikz`), para cores usamos o `xcolor`.
+
+---
+

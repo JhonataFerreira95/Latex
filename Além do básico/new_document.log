@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  8 NOV 2026 03:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.27)  8 NOV 2026 03:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -360,33 +360,33 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Bass\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
  (C:\Users\Bass\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
  (C:\Users\Bass\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/Bass/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (new_document.aux)
+{C:/Users/Bass/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2] (new_document.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13041 strings out of 467870
- 271109 string characters out of 5418839
- 730858 words of memory out of 5000000
- 41687 multiletter control sequences out of 15000+600000
+ 13043 strings out of 467870
+ 271134 string characters out of 5418839
+ 731858 words of memory out of 5000000
+ 41689 multiletter control sequences out of 15000+600000
  639254 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,6n,94p,454b,223s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Bass/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on new_document.pdf (1 page, 25428 bytes).
+Output written on new_document.pdf (2 pages, 27426 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
+ 23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

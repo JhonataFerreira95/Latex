@@ -69,3 +69,15 @@
 - Acima usei o comando parar gerar uma caixa na cor cinza em volta do texto. Geralmente utilizado para grifar apenas uma parte do texto.
 
 ---
+
+- Alterando a cor da página:
+
+```tex
+
+    \pagecolor{yellow! 10}
+
+```
+
+- Acima usei o comando paga mudar a cor da página para amarelo. Observa-se que após o `yellow!` adicionei um `10`, significa que quero que a página tenha uma tonalidade de 10% de amarelo.
+
+---

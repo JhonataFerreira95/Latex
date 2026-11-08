@@ -4,7 +4,7 @@
 
 1. [Cores, ilustrações, tipografia e fontes avançadas](#cores-e-ilustrações)
 2. [Criando macros e ambientes personalizados](#macros-e-ambientes-personalizados)
-3. [Utilizando `Latex` com outros `softwares`]()
+3. [Utilizando `Latex` com outros `softwares`](#latex-com-markdown)
 
 
 ---
@@ -177,3 +177,9 @@
 - Acima usei o estilo `roman` para alterar a numeração da página, para isso usei o comando `\pagenumbering`.
 
 ---
+
+## LaTeX com Markdown
+
+> Formatação de texto em `LaTeX`. Você aprenderá a formatar o texto em negrito, itálico, sublinhado, etc. Além disso, você verá como formatar o texto em diferentes tamanhos e fontes.
+
+--- 

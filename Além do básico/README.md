@@ -148,3 +148,20 @@
 
 ---
 
+- Usando o comando `theorem`:
+
+```tex
+
+    \newtheorem{theorem}{Teorema}[section]
+
+    \section{Introduction}
+
+    \begin{theorem}[teste]
+        \lipsum[1]
+    \end{theorem}
+
+```
+
+- Acima utilizei o comando `theorem` para criar um novo teorma, adicionei o contato `section`, para a cada nova utilziação do `theorem`, ir contando de forma sucessetivamente.
+
+---

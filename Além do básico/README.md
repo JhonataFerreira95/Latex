@@ -165,3 +165,15 @@
 - Acima utilizei o comando `theorem` para criar um novo teorma, adicionei o contato `section`, para a cada nova utilziação do `theorem`, ir contando de forma sucessetivamente.
 
 ---
+
+- Alterando o contador da página no `LaTeX`:
+
+```tex
+
+    \pagenumbering{roman}
+
+```
+
+- Acima usei o estilo `roman` para alterar a numeração da página, para isso usei o comando `\pagenumbering`.
+
+---

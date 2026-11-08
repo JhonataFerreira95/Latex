@@ -3,7 +3,7 @@
 ## Índice
 
 1. [Cores, ilustrações, tipografia e fontes avançadas](#cores-e-ilustrações)
-2. [Criando macros e ambientes personalizados]()
+2. [Criando macros e ambientes personalizados](#macros-e-ambientes-personalizados)
 3. [Utilizando `Latex` com outros `softwares`]()
 
 
@@ -95,5 +95,11 @@
 ```
 
 - O `tikz` funciona com um sistema de cordenadas. Observa-se que pedi para desenhar uma linha do ponto `0,0` até `1,1`, sempre finalizamos as cordenadas do `tikz` com **`;`**.
+
+---
+
+## Macros e ambientes personalizados
+
+- Como criar macros e ambientes personalizados. Isso é útil para criar comandos e ambientes utilizados com frequência no seu documento.
 
 ---

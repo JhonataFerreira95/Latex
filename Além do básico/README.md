@@ -57,3 +57,15 @@
 - Acima usei o comando `\textcolor{red}` para definir a fonte do meu texto como vermelha.
 
 ---
+
+- Usando o `colorbox`:
+
+```tex
+
+    \colorbox{gray}{grifando}
+
+```
+
+- Acima usei o comando parar gerar uma caixa na cor cinza em volta do texto. Geralmente utilizado para grifar apenas uma parte do texto.
+
+---

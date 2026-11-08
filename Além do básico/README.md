@@ -141,3 +141,9 @@
 - Aqui alterei a forma do `epsilon`, sempre alterando antes do `maketitle` e usando o comando `\epsilon` para domonstra a nova forma do `epsilon`.
 
 ---
+
+## Ambientes enumerados e contadores
+
+> Irei abordar como enumerar certos ambientes e a criar ambientes com argumentos.
+
+---

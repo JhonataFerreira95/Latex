@@ -81,3 +81,19 @@
 - Acima usei o comando paga mudar a cor da página para amarelo. Observa-se que após o `yellow!` adicionei um `10`, significa que quero que a página tenha uma tonalidade de 10% de amarelo.
 
 ---
+
+- Usando o `tikz`:
+
+```tex
+
+    \section{usando o pikz}
+
+    \begin{tikzpicture}
+        \draw (0,0) -- (1,1);
+    \end{tikzpicture}
+
+```
+
+- O `tikz` funciona com um sistema de cordenadas. Observa-se que pedi para desenhar uma linha do ponto `0,0` até `1,1`, sempre finalizamos as cordenadas do `tikz` com **`;`**.
+
+---

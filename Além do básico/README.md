@@ -103,3 +103,21 @@
 - Como criar macros e ambientes personalizados. Isso é útil para criar comandos e ambientes utilizados com frequência no seu documento.
 
 ---
+
+- Criando um comando em `LaTeX`:
+
+```tex
+
+    \pagecolor{yellow! 10}
+    \newcommand{\institution}{IFIRN}
+    \maketitle
+
+    \section{macros}
+
+    A instituição de ensino é {\institution}
+
+```
+
+- Observa-se que criei o comando antes do `maketitle`, usando o comando `\newcommand` e após passando os parâmetros para o mesmo, usei ele chamando no texto no `LaTeX` usando o `{\institution}`, que foi o nome dado ao mesmo.
+
+---

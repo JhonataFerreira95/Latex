@@ -121,3 +121,23 @@
 - Observa-se que criei o comando antes do `maketitle`, usando o comando `\newcommand` e após passando os parâmetros para o mesmo, usei ele chamando no texto no `LaTeX` usando o `{\institution}`, que foi o nome dado ao mesmo.
 
 ---
+
+- Alerando comando já existentes no `LaTeX`:
+
+```tex
+
+    \pagecolor{yellow! 10}
+    \newcommand{\institution}{IFIRN}
+    \renewcommand{\epsilon}{\varepsilon}
+    \maketitle
+
+    \subsection{alterando comandos já existentes}
+
+    Usando o novo comando para o $\epsilon > 0$
+
+
+```
+
+- Aqui alterei a forma do `epsilon`, sempre alterando antes do `maketitle` e usando o comando `\epsilon` para domonstra a nova forma do `epsilon`.
+
+---

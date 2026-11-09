@@ -183,3 +183,13 @@
 > Formatação de texto em `LaTeX`. Você aprenderá a formatar o texto em negrito, itálico, sublinhado, etc. Além disso, você verá como formatar o texto em diferentes tamanhos e fontes.
 
 --- 
+
+- Para usar o `LaTeX` com o `MK`, basta definir o ambiente com dois sinais `$$` para detonar o inicial e no final os mesmo sinais `$$` para detonar o fim.
+
+$$
+    x + y = z
+$$
+
+- Para fórmulas na mesma linha do texto, use um único `$`, como em $x + y = z$.
+
+---

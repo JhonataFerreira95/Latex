@@ -4,7 +4,6 @@ Este repositório reúne anotações, exemplos e documentos produzidos durante m
 
 ## Índice
 
-
 1. [Introdução ao LaTeX](#introdução-ao-latex)
 2. [Elementos avançados](#elementos-avançados)
 3. [Estruturação de documentos](#estruturação-de-documentos)
